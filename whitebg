@@ -1,0 +1,5 @@
+for i in *.png
+do
+	convert -flatten -background white $i x
+	rm $i; mv x $i
+done

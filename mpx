@@ -1,0 +1,4 @@
+mkdir srcdir destdir
+ln fbook/* gravatar/* planet/* srcdir
+rm -rf destdir; mkdir destdir; metapixel-prepare srcdir destdir
+metapixel --collage -s 5 -w 20 -h 20 --metapixel  --library destdir Fedora-button_plain-preview.png output.png

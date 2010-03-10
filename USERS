@@ -1,0 +1,2297 @@
+$VAR1 = [
+          {
+            'uid' => 1547900294,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1061/93/q1547900294_9084.jpg',
+            'name' => 'Johann Glastre'
+          },
+          {
+            'uid' => 1442403133,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1313/14/q1442403133_3700.jpg',
+            'name' => 'Jo Cullun Driven'
+          },
+          {
+            'uid' => 661984184,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1047/92/q661984184_1316.jpg',
+            'name' => 'Eric Lofaso'
+          },
+          {
+            'uid' => 528759988,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1492/107/q528759988_9370.jpg',
+            'name' => 'Anoochit Chalothorn'
+          },
+          {
+            'uid' => 1739323151,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1909/118/q1739323151_5964.jpg',
+            'name' => 'Keith Peterson'
+          },
+          {
+            'uid' => 1189345806,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1148/94/q1189345806_3159.jpg',
+            'name' => 'Stephen Friedrich'
+          },
+          {
+            'uid' => 1608177331,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/5/111/q1608177331_6683.jpg',
+            'name' => 'Michele Caresana'
+          },
+          {
+            'uid' => 665433601,
+            'pic_square' => undef,
+            'name' => 'Randy Beverly'
+          },
+          {
+            'uid' => 1493111644,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1741/53/q1493111644_7808.jpg',
+            'name' => "Ricardo Gonz\x{e1}lez"
+          },
+          {
+            'uid' => 653515503,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/293/59/q653515503_4032.jpg',
+            'name' => 'Jasmine Ee'
+          },
+          {
+            'uid' => 693651429,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/504/51/q693651429_1275.jpg',
+            'name' => 'Jim Scott'
+          },
+          {
+            'uid' => 1428584903,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/238/29/q1428584903_9162.jpg',
+            'name' => 'Sandro Rauscher'
+          },
+          {
+            'uid' => 1395606167,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1426/18/q1395606167_2372.jpg',
+            'name' => "J\x{f8}rn Gilreiner"
+          },
+          {
+            'uid' => 1039690869,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1742/54/q1039690869_2443.jpg',
+            'name' => 'Chris Richardson'
+          },
+          {
+            'uid' => 51907950,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/968/13/q51907950_8296.jpg',
+            'name' => 'Spencer Biery'
+          },
+          {
+            'uid' => 1551836517,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1695/65/q1551836517_5917.jpg',
+            'name' => 'Stelios Mpou'
+          },
+          {
+            'uid' => 1753285552,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/354/85/q1753285552_7221.jpg',
+            'name' => 'Bojan Vranac'
+          },
+          {
+            'uid' => 1045530277,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/284/103/q1045530277_4343.jpg',
+            'name' => "Olcay \x{d6}zt\x{fc}rkmen"
+          },
+          {
+            'uid' => 721039392,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/240/20/q721039392_7081.jpg',
+            'name' => 'Stephen Lewis'
+          },
+          {
+            'uid' => 1074788697,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/364/15/q1074788697_4779.jpg',
+            'name' => 'James Day'
+          },
+          {
+            'uid' => 1733274586,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/389/105/q1733274586_8146.jpg',
+            'name' => 'Robert Kimbrough'
+          },
+          {
+            'uid' => 1472518030,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/539/20/q1472518030_9065.jpg',
+            'name' => 'Alex Sangiuliano'
+          },
+          {
+            'uid' => 574552440,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1667/90/q574552440_2585.jpg',
+            'name' => 'Valik Szekely'
+          },
+          {
+            'uid' => 1392331945,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/656/92/q1392331945_3815.jpg',
+            'name' => 'Nathan Rich'
+          },
+          {
+            'uid' => 1684064653,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/382/49/q1684064653_8814.jpg',
+            'name' => 'Ian Kluft'
+          },
+          {
+            'uid' => 603686111,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1249/48/q603686111_3537.jpg',
+            'name' => 'Luca Wix Fasoli'
+          },
+          {
+            'uid' => 9435553,
+            'pic_square' => undef,
+            'name' => 'Bil Ellison'
+          },
+          {
+            'uid' => 1188298244,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/575/84/q1188298244_1082.jpg',
+            'name' => 'Ana Patricia'
+          },
+          {
+            'uid' => 602932705,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/492/124/q602932705_1598.jpg',
+            'name' => "\x{41b}\x{44e}\x{434}\x{43c}\x{438}\x{43b}\x{430} \x{422}\x{43e}\x{434}\x{43e}\x{440}\x{43e}\x{432}\x{430}"
+          },
+          {
+            'uid' => 718946911,
+            'pic_square' => undef,
+            'name' => 'Arlinton Bourne'
+          },
+          {
+            'uid' => 1703569648,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1/60/q1703569648_3276.jpg',
+            'name' => 'Cody Christenson'
+          },
+          {
+            'uid' => 1370962375,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/838/41/q1370962375_1750.jpg',
+            'name' => 'Febriyanto Sasongko'
+          },
+          {
+            'uid' => 1186849081,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1245/115/q1186849081_9057.jpg',
+            'name' => 'Maximilien Mairet'
+          },
+          {
+            'uid' => 1148092553,
+            'pic_square' => undef,
+            'name' => 'Larry Letelier'
+          },
+          {
+            'uid' => 626249862,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1512/19/q626249862_3562.jpg',
+            'name' => 'Enrico Accenti'
+          },
+          {
+            'uid' => 1038067681,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/697/16/q1038067681_9505.jpg',
+            'name' => 'Joshua Sierra'
+          },
+          {
+            'uid' => 1622372896,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1351/91/q1622372896_4427.jpg',
+            'name' => 'Matteo Salvi'
+          },
+          {
+            'uid' => 1158309510,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1766/35/q1158309510_6017.jpg',
+            'name' => 'Tanya Mitewa'
+          },
+          {
+            'uid' => 1492813038,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/68/72/q1492813038_8178.jpg',
+            'name' => 'Garna Nugraha'
+          },
+          {
+            'uid' => 541422621,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/940/63/q541422621_1496.jpg',
+            'name' => 'Jean Christophe Arrazau'
+          },
+          {
+            'uid' => 1018063623,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1269/62/q1018063623_4606.jpg',
+            'name' => 'Jayson Rowe'
+          },
+          {
+            'uid' => 553116651,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1256/67/q553116651_9921.jpg',
+            'name' => 'Ole Anders Basmoen'
+          },
+          {
+            'uid' => 1122529812,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1843/89/q1122529812_3709.jpg',
+            'name' => "Benjam\x{ed}n Valero Espinosa"
+          },
+          {
+            'uid' => 697248431,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/244/17/q697248431_2975.jpg',
+            'name' => 'Ricardo Arguello'
+          },
+          {
+            'uid' => 1635631335,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1307/37/q1635631335_7711.jpg',
+            'name' => 'Ladislav Smetana'
+          },
+          {
+            'uid' => 749369714,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/111/48/q749369714_2960.jpg',
+            'name' => 'Gino Alania'
+          },
+          {
+            'uid' => 530042697,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1833/80/q530042697_622.jpg',
+            'name' => 'Jef Frey'
+          },
+          {
+            'uid' => 1090403704,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/615/7/q1090403704_8269.jpg',
+            'name' => 'Le Khanh'
+          },
+          {
+            'uid' => 1734060140,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/386/121/q1734060140_4234.jpg',
+            'name' => 'Kai Tamkun'
+          },
+          {
+            'uid' => 533117522,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/910/86/q533117522_7051.jpg',
+            'name' => 'Soichiro Arima'
+          },
+          {
+            'uid' => 1385074028,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1448/102/q1385074028_2594.jpg',
+            'name' => 'Marc Bieler'
+          },
+          {
+            'uid' => 703108964,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/824/63/q703108964_8357.jpg',
+            'name' => 'Dede Supiandi'
+          },
+          {
+            'uid' => 1544161472,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1401/80/q1544161472_6352.jpg',
+            'name' => 'Ragil Marevan'
+          },
+          {
+            'uid' => 729744421,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/182/61/q729744421_5440.jpg',
+            'name' => 'Mounia Benkirane'
+          },
+          {
+            'uid' => 13718066,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/852/112/q13718066_1798.jpg',
+            'name' => 'Chuck Swaim'
+          },
+          {
+            'uid' => 537069173,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1684/46/q537069173_1202.jpg',
+            'name' => 'Nguyen Trong Phuc'
+          },
+          {
+            'uid' => 1420082737,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1814/16/q1420082737_5878.jpg',
+            'name' => 'Richard Diekema'
+          },
+          {
+            'uid' => 1343769201,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1376/91/q1343769201_9176.jpg',
+            'name' => 'Diana Martinez'
+          },
+          {
+            'uid' => 622562398,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1874/3/q622562398_1495.jpg',
+            'name' => 'Samuel Sieb'
+          },
+          {
+            'uid' => 1572068343,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/927/116/q1572068343_6819.jpg',
+            'name' => 'Bagnaria Arsa'
+          },
+          {
+            'uid' => 1147515085,
+            'pic_square' => '',
+            'name' => 'Mehdi Asalforoush'
+          },
+          {
+            'uid' => 537743728,
+            'pic_square' => undef,
+            'name' => 'Aku Dan Kamu'
+          },
+          {
+            'uid' => 1498410348,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1217/108/q1498410348_3389.jpg',
+            'name' => 'Syafri Gunawan'
+          },
+          {
+            'uid' => 1175270378,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/194/30/q1175270378_6213.jpg',
+            'name' => 'Arif Maksud'
+          },
+          {
+            'uid' => 634907851,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/918/17/q634907851_4935.jpg',
+            'name' => 'Spyros Typaldos'
+          },
+          {
+            'uid' => 1428680495,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1848/119/q1428680495_9379.jpg',
+            'name' => 'Thomas Lopez'
+          },
+          {
+            'uid' => 1169080680,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/292/60/q1169080680_3689.jpg',
+            'name' => 'Marco Maccaferri'
+          },
+          {
+            'uid' => 1084549507,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1183/38/q1084549507_7926.jpg',
+            'name' => 'Ali Hendavi'
+          },
+          {
+            'uid' => 715144463,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/724/101/q715144463_4761.jpg',
+            'name' => 'Samuel Iglesias'
+          },
+          {
+            'uid' => 683691243,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1901/14/q683691243_3039.jpg',
+            'name' => 'Parthi Rajasekharan'
+          },
+          {
+            'uid' => 1399392001,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1335/66/q1399392001_3287.jpg',
+            'name' => 'Nolan Clayton'
+          },
+          {
+            'uid' => 651762262,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/539/64/q651762262_1001.jpg',
+            'name' => 'Juan Rubio'
+          },
+          {
+            'uid' => 754532960,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1033/20/q754532960_635.jpg',
+            'name' => 'Jeff Dudley'
+          },
+          {
+            'uid' => 1418063581,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1062/23/q1418063581_1640.jpg',
+            'name' => 'Zeb Palmer'
+          },
+          {
+            'uid' => 1070864102,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1328/123/q1070864102_8896.jpg',
+            'name' => 'Ivan Cenov'
+          },
+          {
+            'uid' => 787446797,
+            'pic_square' => undef,
+            'name' => 'Kahime Abrams'
+          },
+          {
+            'uid' => 1452765563,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/308/66/q1452765563_2800.jpg',
+            'name' => 'Chad Chun'
+          },
+          {
+            'uid' => 672705917,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/523/104/q672705917_2639.jpg',
+            'name' => 'Claudia Lorena Hurtado Guarin'
+          },
+          {
+            'uid' => 732080218,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1513/19/q732080218_9388.jpg',
+            'name' => 'Carlos Castilla'
+          },
+          {
+            'uid' => 742125066,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/840/104/q742125066_3107.jpg',
+            'name' => 'Brian J Rogers'
+          },
+          {
+            'uid' => 508039843,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/738/18/q508039843_2242.jpg',
+            'name' => 'Joseph Pender'
+          },
+          {
+            'uid' => 1365322854,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1740/74/q1365322854_2288.jpg',
+            'name' => 'Nishad Thunderbird'
+          },
+          {
+            'uid' => 1496181993,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/168/88/q1496181993_1797.jpg',
+            'name' => 'Almedin Cicko'
+          },
+          {
+            'uid' => 1441407248,
+            'pic_square' => undef,
+            'name' => "David Vall\x{e9}lian"
+          },
+          {
+            'uid' => 1440332427,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/790/95/q1440332427_6108.jpg',
+            'name' => 'Jochen Eissner'
+          },
+          {
+            'uid' => 1078963502,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/503/34/q1078963502_6790.jpg',
+            'name' => 'Cesar Martinez'
+          },
+          {
+            'uid' => 1529690060,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/515/92/q1529690060_7687.jpg',
+            'name' => 'Mike Dickson'
+          },
+          {
+            'uid' => 1488370134,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1893/69/q1488370134_1620.jpg',
+            'name' => 'Fabien Magendie'
+          },
+          {
+            'uid' => 664929191,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/738/21/q664929191_5021.jpg',
+            'name' => 'Yannick Fauconnier'
+          },
+          {
+            'uid' => 1663110074,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/467/2/q1663110074_3137.jpg',
+            'name' => 'Genny Narvaez'
+          },
+          {
+            'uid' => 1209563552,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1474/43/q1209563552_3679.jpg',
+            'name' => 'Sophia McCavanaugh'
+          },
+          {
+            'uid' => 527770912,
+            'pic_square' => undef,
+            'name' => 'Craig Bell'
+          },
+          {
+            'uid' => 598351085,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/873/84/q598351085_3600.jpg',
+            'name' => "Christian Gonz\x{e1}lez"
+          },
+          {
+            'uid' => 533691378,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/642/42/q533691378_5033.jpg',
+            'name' => 'Jhon Jairo Tamayo Martinez'
+          },
+          {
+            'uid' => 1483782539,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/690/37/q1483782539_1969.jpg',
+            'name' => 'Tom Clark'
+          },
+          {
+            'uid' => 1112657074,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1462/46/q1112657074_8693.jpg',
+            'name' => 'Angelica Maria Oviedo Montoya'
+          },
+          {
+            'uid' => 729391610,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/152/51/q729391610_8017.jpg',
+            'name' => 'AyoSteit Steitiyeh'
+          },
+          {
+            'uid' => 657396235,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/791/78/q657396235_3022.jpg',
+            'name' => 'Ankur Tiwari'
+          },
+          {
+            'uid' => 536041107,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1297/109/q536041107_6321.jpg',
+            'name' => 'Duke Lyons'
+          },
+          {
+            'uid' => 1651508182,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/541/6/q1651508182_6416.jpg',
+            'name' => 'Massimiliano Fabi'
+          },
+          {
+            'uid' => 641304204,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1692/24/q641304204_707.jpg',
+            'name' => 'Gabriel Gonzalez Rodriguez'
+          },
+          {
+            'uid' => 1255759226,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/950/45/q1255759226_4825.jpg',
+            'name' => 'Matthew Franklin'
+          },
+          {
+            'uid' => 1468093641,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/955/93/q1468093641_599.jpg',
+            'name' => 'William Powell'
+          },
+          {
+            'uid' => 603782859,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/74/15/q603782859_1280.jpg',
+            'name' => 'Gloria Elena Otero Esquivel'
+          },
+          {
+            'uid' => 698793734,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1224/27/q698793734_8662.jpg',
+            'name' => 'Daniel Andersen'
+          },
+          {
+            'uid' => 1260187190,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1450/74/q1260187190_1096.jpg',
+            'name' => 'Rizky Fahmi'
+          },
+          {
+            'uid' => 831395354,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/465/33/q831395354_8494.jpg',
+            'name' => 'Murtaza Gulamabbas H'
+          },
+          {
+            'uid' => 1068048811,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1288/81/q1068048811_7707.jpg',
+            'name' => 'Nathan Blackham'
+          },
+          {
+            'uid' => 1017725642,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/40/94/q1017725642_1030.jpg',
+            'name' => 'Grey Vane Ortiz'
+          },
+          {
+            'uid' => 728055405,
+            'pic_square' => undef,
+            'name' => 'Harsh Vadgama'
+          },
+          {
+            'uid' => 689132585,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/1736/37/q689132585_6376.jpg',
+            'name' => 'John Babich'
+          },
+          {
+            'uid' => 558520722,
+            'pic_square' => '',
+            'name' => 'Dayanna Lopez Herrera'
+          },
+          {
+            'uid' => 532648874,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1895/11/q532648874_1207.jpg',
+            'name' => 'Carlos Andres Salazar Estrada'
+          },
+          {
+            'uid' => 719836412,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/322/34/q719836412_8786.jpg',
+            'name' => 'Dave Hemingway'
+          },
+          {
+            'uid' => 648577542,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/600/60/q648577542_4130.jpg',
+            'name' => 'AleJandra PinTo Lozada'
+          },
+          {
+            'uid' => 688261167,
+            'pic_square' => undef,
+            'name' => 'Fred Trigg'
+          },
+          {
+            'uid' => 1393187150,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1556/50/q1393187150_4005.jpg',
+            'name' => 'Bambang Ismono'
+          },
+          {
+            'uid' => 534972239,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/947/34/q534972239_9760.jpg',
+            'name' => "Anselmo Jose Casta\x{f1}o"
+          },
+          {
+            'uid' => 615922443,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1604/21/q615922443_5637.jpg',
+            'name' => 'Jeimmy Marquez Sanchez'
+          },
+          {
+            'uid' => 568137600,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1095/86/q568137600_4622.jpg',
+            'name' => 'Devon Wintoniak'
+          },
+          {
+            'uid' => 668397527,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/688/45/q668397527_3654.jpg',
+            'name' => 'John Chendra'
+          },
+          {
+            'uid' => 1510142501,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1482/98/q1510142501_2258.jpg',
+            'name' => "Milan Jovanovi\x{107}"
+          },
+          {
+            'uid' => 790637291,
+            'pic_square' => undef,
+            'name' => 'Viktor Lucza'
+          },
+          {
+            'uid' => 1433933041,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/190/55/q1433933041_4861.jpg',
+            'name' => 'Cristina Tanzi Tolenti'
+          },
+          {
+            'uid' => 729673307,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/488/96/q729673307_5367.jpg',
+            'name' => 'Ketut Oka Wirasatha'
+          },
+          {
+            'uid' => 1207450235,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/644/24/q1207450235_7265.jpg',
+            'name' => "\x{41a}\x{430}\x{442}\x{430}\x{440}\x{438}\x{43d}\x{430} \x{416}\x{430}\x{440}\x{43a}\x{43e}\x{432}\x{438}\x{45b}"
+          },
+          {
+            'uid' => 1239707347,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1313/117/q1239707347_5647.jpg',
+            'name' => 'Bruno Bersal Beatriz'
+          },
+          {
+            'uid' => 647139170,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/871/76/q647139170_4970.jpg',
+            'name' => 'Aura Vanessa Durango Mendoza'
+          },
+          {
+            'uid' => 1475796759,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/747/97/q1475796759_4697.jpg',
+            'name' => 'Dan Hiris'
+          },
+          {
+            'uid' => 619631654,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/887/79/q619631654_9475.jpg',
+            'name' => "Amaury Javier Plaza G\x{f3}mez"
+          },
+          {
+            'uid' => 600684243,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1991/60/q600684243_4097.jpg',
+            'name' => "Sad\x{131}k Ba\x{15f}kaya"
+          },
+          {
+            'uid' => 651034469,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1045/13/q651034469_3037.jpg',
+            'name' => 'Oronti Adewale'
+          },
+          {
+            'uid' => 561611739,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1792/22/q561611739_9279.jpg',
+            'name' => "Durley Gomez Pi\x{f1}eros"
+          },
+          {
+            'uid' => 1447490027,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/726/25/q1447490027_4596.jpg',
+            'name' => 'Jose Antonio Estrada'
+          },
+          {
+            'uid' => 731984816,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/2010/106/q731984816_4953.jpg',
+            'name' => 'Adolfo Leon RAmirez Luna'
+          },
+          {
+            'uid' => 655574355,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1848/12/q655574355_4602.jpg',
+            'name' => 'Fabien Dupont'
+          },
+          {
+            'uid' => 616925329,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1149/61/q616925329_1355.jpg',
+            'name' => 'Ramiro Pulgar'
+          },
+          {
+            'uid' => 531829930,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1285/120/q531829930_5226.jpg',
+            'name' => 'Cintya Suarez'
+          },
+          {
+            'uid' => 671275598,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/744/23/q671275598_2339.jpg',
+            'name' => 'Carolina Andrade Ramirez'
+          },
+          {
+            'uid' => 660238117,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1114/87/q660238117_4882.jpg',
+            'name' => 'Jose David Mercado Rodriguez'
+          },
+          {
+            'uid' => 855345337,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1192/72/q855345337_6480.jpg',
+            'name' => 'Christopher Clarry'
+          },
+          {
+            'uid' => 714312702,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/590/75/q714312702_1717.jpg',
+            'name' => 'Rhapsody Daniel Sido'
+          },
+          {
+            'uid' => 646068016,
+            'pic_square' => undef,
+            'name' => 'Eric Ha'
+          },
+          {
+            'uid' => 669917843,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1135/53/q669917843_4024.jpg',
+            'name' => 'Ana Carolina'
+          },
+          {
+            'uid' => 1190172485,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/773/18/q1190172485_5447.jpg',
+            'name' => 'Isabel Cristina Jaramillo O'
+          },
+          {
+            'uid' => 525769200,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/287/71/q525769200_5146.jpg',
+            'name' => 'Seelie Emylion Olive'
+          },
+          {
+            'uid' => 594937557,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/557/97/q594937557_2857.jpg',
+            'name' => 'Ileana Sierra'
+          },
+          {
+            'uid' => 1432903943,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1465/41/q1432903943_9708.jpg',
+            'name' => 'Anggie Pereira Pastrana'
+          },
+          {
+            'uid' => 1200173066,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/998/124/q1200173066_9635.jpg',
+            'name' => 'Ivan Castro'
+          },
+          {
+            'uid' => 1450117411,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/967/8/q1450117411_798.jpg',
+            'name' => 'Geovanni Sepulveda'
+          },
+          {
+            'uid' => 1350950192,
+            'pic_square' => '',
+            'name' => 'Amal Mohammad'
+          },
+          {
+            'uid' => 1225418367,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1537/51/q1225418367_3908.jpg',
+            'name' => 'Jairo Luis Torres Lance'
+          },
+          {
+            'uid' => 777208293,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/81/15/q777208293_2452.jpg',
+            'name' => 'Cesar Calle'
+          },
+          {
+            'uid' => 553317895,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/281/111/q553317895_6009.jpg',
+            'name' => 'Eileen Suarez'
+          },
+          {
+            'uid' => 1130042168,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/704/21/q1130042168_4474.jpg',
+            'name' => 'Jorge Fernando'
+          },
+          {
+            'uid' => 1062445458,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1865/25/q1062445458_6755.jpg',
+            'name' => 'Jose Fernando Urango'
+          },
+          {
+            'uid' => 1123868370,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/887/83/q1123868370_7840.jpg',
+            'name' => 'Estefy Lopez'
+          },
+          {
+            'uid' => 1070801728,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/268/105/q1070801728_801.jpg',
+            'name' => 'Carolina Cruz'
+          },
+          {
+            'uid' => 577533501,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1598/28/q577533501_9431.jpg',
+            'name' => 'Antonio Jose Fernandez Paternina'
+          },
+          {
+            'uid' => 1116496248,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/908/116/q1116496248_8386.jpg',
+            'name' => 'Enit Sofia Vergara Mejia'
+          },
+          {
+            'uid' => 592880679,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/614/64/q592880679_816.jpg',
+            'name' => 'Daris D Montiel M'
+          },
+          {
+            'uid' => 533717156,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1297/24/q533717156_3483.jpg',
+            'name' => 'Kristian Hernandez'
+          },
+          {
+            'uid' => 1499997408,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1746/94/q1499997408_5415.jpg',
+            'name' => 'Cindicita Pereira Pastrana'
+          },
+          {
+            'uid' => 565184851,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1729/31/q565184851_2228.jpg',
+            'name' => 'Davo Triana'
+          },
+          {
+            'uid' => 655506986,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/642/4/q655506986_9853.jpg',
+            'name' => 'Jose Miguel Dager Montoya'
+          },
+          {
+            'uid' => 618097528,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1270/20/q618097528_5511.jpg',
+            'name' => 'Caroly Sierra'
+          },
+          {
+            'uid' => 1516058389,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1225/114/q1516058389_8907.jpg',
+            'name' => 'Vanessa Colignon'
+          },
+          {
+            'uid' => 1394912797,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1993/59/q1394912797_2196.jpg',
+            'name' => 'Thomas Beckendorf'
+          },
+          {
+            'uid' => 1283640216,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1601/25/q1283640216_7437.jpg',
+            'name' => 'Anonda Podder'
+          },
+          {
+            'uid' => 848364217,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1926/64/q848364217_8646.jpg',
+            'name' => 'Mahesh Balumuri'
+          },
+          {
+            'uid' => 1428283050,
+            'pic_square' => undef,
+            'name' => 'Adam Charles'
+          },
+          {
+            'uid' => 1447656608,
+            'pic_square' => '',
+            'name' => "Mih\x{e1}ly Csaba"
+          },
+          {
+            'uid' => 599223414,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1536/31/q599223414_5099.jpg',
+            'name' => 'Edwin John'
+          },
+          {
+            'uid' => 36921623,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/925/98/q36921623_7636.jpg',
+            'name' => 'Simon Birtwistle'
+          },
+          {
+            'uid' => 722471698,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1889/112/q722471698_8111.jpg',
+            'name' => 'Clint Savage'
+          },
+          {
+            'uid' => 812715626,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1158/82/q812715626_9018.jpg',
+            'name' => 'Harish Pillay'
+          },
+          {
+            'uid' => 708846787,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1639/62/q708846787_9724.jpg',
+            'name' => 'Alex Hudson'
+          },
+          {
+            'uid' => 1065459212,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/679/95/q1065459212_3348.jpg',
+            'name' => 'Mostafa Daneshvar'
+          },
+          {
+            'uid' => 1206305690,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/723/44/q1206305690_5271.jpg',
+            'name' => 'Warren Kwok'
+          },
+          {
+            'uid' => 1522622646,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1030/33/q1522622646_5620.jpg',
+            'name' => 'Qasim Raza'
+          },
+          {
+            'uid' => 1050066965,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1206/69/q1050066965_7778.jpg',
+            'name' => "Mar\x{ed}a Gracia Leandro"
+          },
+          {
+            'uid' => 1280961904,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1856/65/q1280961904_6318.jpg',
+            'name' => 'George Hacker'
+          },
+          {
+            'uid' => 815888728,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/993/15/q815888728_2774.jpg',
+            'name' => 'Eric Doutreleau'
+          },
+          {
+            'uid' => 1404285360,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/400/67/q1404285360_8055.jpg',
+            'name' => 'Luis Sebastian Urrutia Fuentes'
+          },
+          {
+            'uid' => 569279620,
+            'pic_square' => undef,
+            'name' => 'Jaakko Matinolli'
+          },
+          {
+            'uid' => 1134781890,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1238/70/q1134781890_4400.jpg',
+            'name' => 'Dony Purnama'
+          },
+          {
+            'uid' => 621705586,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1897/121/q621705586_2366.jpg',
+            'name' => 'Yasser Hayali'
+          },
+          {
+            'uid' => 1330516820,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/843/16/q1330516820_3718.jpg',
+            'name' => 'Claudio Gatta'
+          },
+          {
+            'uid' => 815782481,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1735/70/q815782481_364.jpg',
+            'name' => 'Adrian Nomura'
+          },
+          {
+            'uid' => 55714534,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1902/50/q55714534_1876.jpg',
+            'name' => 'Brian M Collins'
+          },
+          {
+            'uid' => 630910048,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/849/55/q630910048_9504.jpg',
+            'name' => 'Boris Radev'
+          },
+          {
+            'uid' => 1405203593,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1662/117/q1405203593_2830.jpg',
+            'name' => 'Hassan Mahmud'
+          },
+          {
+            'uid' => 539539247,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1033/34/q539539247_4708.jpg',
+            'name' => 'Catur Wirawan Wijiutomo'
+          },
+          {
+            'uid' => 575470509,
+            'pic_square' => undef,
+            'name' => 'Bram Bourgoignie'
+          },
+          {
+            'uid' => 752271818,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1415/47/q752271818_1230.jpg',
+            'name' => 'Nasril Aja'
+          },
+          {
+            'uid' => 1612953431,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1130/38/q1612953431_6997.jpg',
+            'name' => 'Mahlatse Clement Mashala'
+          },
+          {
+            'uid' => 1190970349,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/97/21/q1190970349_1791.jpg',
+            'name' => 'James Higginbottom'
+          },
+          {
+            'uid' => 586586045,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/947/42/q586586045_1221.jpg',
+            'name' => 'Hawkar Shwan'
+          },
+          {
+            'uid' => 573399204,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/2015/55/q573399204_6779.jpg',
+            'name' => "V\x{e9}ronique Borel"
+          },
+          {
+            'uid' => 685600992,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/153/51/q685600992_6736.jpg',
+            'name' => 'Tyler Morris'
+          },
+          {
+            'uid' => 549573002,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/369/23/q549573002_8602.jpg',
+            'name' => 'Christophe Naslain'
+          },
+          {
+            'uid' => 1270300244,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/906/106/q1270300244_6635.jpg',
+            'name' => 'Fakhreddine Ilias'
+          },
+          {
+            'uid' => 1396440271,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1333/48/q1396440271_5558.jpg',
+            'name' => 'Arch Microbe'
+          },
+          {
+            'uid' => 1337097382,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1493/50/q1337097382_2922.jpg',
+            'name' => 'Stephanie Yoder'
+          },
+          {
+            'uid' => 1439139241,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/375/20/q1439139241_3282.jpg',
+            'name' => 'Philip Wright'
+          },
+          {
+            'uid' => 612107612,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1608/79/q612107612_1064.jpg',
+            'name' => 'Marco Motta'
+          },
+          {
+            'uid' => 1407591232,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/716/81/q1407591232_5747.jpg',
+            'name' => 'Dejan Petrovic'
+          },
+          {
+            'uid' => 1271457233,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1387/24/q1271457233_7899.jpg',
+            'name' => "Henry L\x{f3}pez del Pino"
+          },
+          {
+            'uid' => 567694923,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1276/59/q567694923_9431.jpg',
+            'name' => 'Rami Steitieh'
+          },
+          {
+            'uid' => 705209253,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/904/119/q705209253_7194.jpg',
+            'name' => 'Mats Utterheim'
+          },
+          {
+            'uid' => 524919132,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/189/79/q524919132_2032.jpg',
+            'name' => 'Hasret Gundogdu'
+          },
+          {
+            'uid' => 1623501215,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/564/7/q1623501215_8656.jpg',
+            'name' => 'Ken Reynolds'
+          },
+          {
+            'uid' => 1144734170,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/877/82/q1144734170_7919.jpg',
+            'name' => 'Pablo Di Leva'
+          },
+          {
+            'uid' => 1092890438,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/955/78/q1092890438_1605.jpg',
+            'name' => 'Jeremias Badilla Turra'
+          },
+          {
+            'uid' => 1385914844,
+            'pic_square' => '',
+            'name' => 'Ricardo Honore'
+          },
+          {
+            'uid' => 1149346420,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/302/57/q1149346420_3208.jpg',
+            'name' => 'Robert Locke'
+          },
+          {
+            'uid' => 547148301,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1000/114/q547148301_7015.jpg',
+            'name' => 'Allisson Azevedo'
+          },
+          {
+            'uid' => 835928895,
+            'pic_square' => undef,
+            'name' => 'Hashaam Saeed'
+          },
+          {
+            'uid' => 1576921562,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1704/48/q1576921562_3662.jpg',
+            'name' => 'Robie Linux'
+          },
+          {
+            'uid' => 1608104997,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1202/66/q1608104997_5114.jpg',
+            'name' => 'Dimos Samos'
+          },
+          {
+            'uid' => 657844472,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/347/39/q657844472_1552.jpg',
+            'name' => "Ond\x{159}ej Hudlick\x{fd}"
+          },
+          {
+            'uid' => 1215043319,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/517/47/q1215043319_4129.jpg',
+            'name' => 'Martin Pina'
+          },
+          {
+            'uid' => 1119574491,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1169/33/q1119574491_5017.jpg',
+            'name' => 'Randy Nicholas'
+          },
+          {
+            'uid' => 1645293765,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/103/21/q1645293765_5312.jpg',
+            'name' => 'Roner Luciano'
+          },
+          {
+            'uid' => 713773188,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1079/5/q713773188_1740.jpg',
+            'name' => 'Skymix Sky'
+          },
+          {
+            'uid' => 533455223,
+            'pic_square' => undef,
+            'name' => 'Pete Vargas Mas'
+          },
+          {
+            'uid' => 1555578448,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/642/5/q1555578448_6215.jpg',
+            'name' => 'Antonio Montagnani'
+          },
+          {
+            'uid' => 1029860896,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/687/104/q1029860896_4525.jpg',
+            'name' => 'Tony Miles'
+          },
+          {
+            'uid' => 508793922,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/408/67/q508793922_4089.jpg',
+            'name' => 'Brad Burns'
+          },
+          {
+            'uid' => 1169738468,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/912/125/q1169738468_857.jpg',
+            'name' => 'Gunter Falck'
+          },
+          {
+            'uid' => 1410696143,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1443/72/q1410696143_4045.jpg',
+            'name' => 'Julien Langeveld'
+          },
+          {
+            'uid' => 694321441,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/225/83/q694321441_1730.jpg',
+            'name' => 'Sam Rudge'
+          },
+          {
+            'uid' => 709074557,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/966/60/q709074557_2595.jpg',
+            'name' => 'Fernando Tucci'
+          },
+          {
+            'uid' => 548767991,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/437/78/q548767991_4650.jpg',
+            'name' => 'Chetan Nandikanti'
+          },
+          {
+            'uid' => 1247162016,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/320/112/q1247162016_5916.jpg',
+            'name' => 'Deff Mackaye'
+          },
+          {
+            'uid' => 1478595452,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/2015/9/q1478595452_3294.jpg',
+            'name' => "Honza Dolej\x{161}"
+          },
+          {
+            'uid' => 1275130157,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/404/74/q1275130157_6562.jpg',
+            'name' => 'Michael Hubbard'
+          },
+          {
+            'uid' => 744509924,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1947/12/q744509924_971.jpg',
+            'name' => 'Fernando Aguirre'
+          },
+          {
+            'uid' => 1418225754,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1725/4/q1418225754_9655.jpg',
+            'name' => 'Wahyudi Txr'
+          },
+          {
+            'uid' => 741940262,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/349/70/q741940262_6843.jpg',
+            'name' => 'Christophe Vial'
+          },
+          {
+            'uid' => 530706291,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/975/35/q530706291_2787.jpg',
+            'name' => 'Alberto Foglietta'
+          },
+          {
+            'uid' => 691893011,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/70/23/q691893011_5052.jpg',
+            'name' => 'Jay William Grote'
+          },
+          {
+            'uid' => 1016485477,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/337/57/q1016485477_4178.jpg',
+            'name' => 'Made Agusdirawan'
+          },
+          {
+            'uid' => 1498358804,
+            'pic_square' => undef,
+            'name' => 'Gustavo Dalbes'
+          },
+          {
+            'uid' => 513137529,
+            'pic_square' => '',
+            'name' => 'Polly Brown'
+          },
+          {
+            'uid' => 1099066465,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/985/60/q1099066465_611.jpg',
+            'name' => 'Sonny Susanto'
+          },
+          {
+            'uid' => 1048099211,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/951/99/q1048099211_7224.jpg',
+            'name' => 'Phillip B Roberts'
+          },
+          {
+            'uid' => 791439656,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/14/122/q791439656_3516.jpg',
+            'name' => 'George Zafeiropoulos'
+          },
+          {
+            'uid' => 724944223,
+            'pic_square' => undef,
+            'name' => "I\x{f1}aki Fern\x{e1}ndez"
+          },
+          {
+            'uid' => 663227459,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1289/87/q663227459_2321.jpg',
+            'name' => 'Ismail Dhaoui'
+          },
+          {
+            'uid' => 1212613225,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1561/104/q1212613225_9845.jpg',
+            'name' => 'Jangball Squad'
+          },
+          {
+            'uid' => 1263712382,
+            'pic_square' => undef,
+            'name' => "Crysis Go\x{111}"
+          },
+          {
+            'uid' => 1112822614,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1840/49/q1112822614_6699.jpg',
+            'name' => "\x{80e1}\x{96bd}\x{9e4f}"
+          },
+          {
+            'uid' => 770018185,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/265/39/q770018185_6104.jpg',
+            'name' => 'Khaled Elbadri'
+          },
+          {
+            'uid' => 1238017433,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/550/76/q1238017433_3120.jpg',
+            'name' => 'Oliver Falk'
+          },
+          {
+            'uid' => 645351337,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/3/48/q645351337_9192.jpg',
+            'name' => 'Aj Latorre'
+          },
+          {
+            'uid' => 1631045217,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/395/31/q1631045217_5359.jpg',
+            'name' => 'Tim Urberg'
+          },
+          {
+            'uid' => 1501537536,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1396/80/q1501537536_7416.jpg',
+            'name' => 'Bradley Crawford'
+          },
+          {
+            'uid' => 1052850345,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/970/74/q1052850345_4294.jpg',
+            'name' => "Kristi\x{e1}n Feldsam"
+          },
+          {
+            'uid' => 1172844680,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/699/114/q1172844680_3714.jpg',
+            'name' => 'Eduardo K Kislanski'
+          },
+          {
+            'uid' => 695905205,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/875/111/q695905205_7808.jpg',
+            'name' => 'Mike Lee'
+          },
+          {
+            'uid' => 593564559,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/193/23/q593564559_3096.jpg',
+            'name' => "Andr\x{e9} Teixeira"
+          },
+          {
+            'uid' => 1501470848,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/123/112/q1501470848_4695.jpg',
+            'name' => 'Nicola Concetti'
+          },
+          {
+            'uid' => 656178471,
+            'pic_square' => undef,
+            'name' => 'Achid Cun Leonidas'
+          },
+          {
+            'uid' => 1388221242,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/439/81/q1388221242_1514.jpg',
+            'name' => 'G.Nikitha Reddy'
+          },
+          {
+            'uid' => 544185800,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/926/46/q544185800_24.jpg',
+            'name' => 'Angel Montanez'
+          },
+          {
+            'uid' => 1017161214,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1198/25/q1017161214_6797.jpg',
+            'name' => 'Daniela Nuvolotta Frigo'
+          },
+          {
+            'uid' => 1359671852,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1667/36/q1359671852_6624.jpg',
+            'name' => 'Stefan Held'
+          },
+          {
+            'uid' => 761518214,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/406/81/q761518214_4562.jpg',
+            'name' => 'Vincent Aubrun'
+          },
+          {
+            'uid' => 804952715,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1317/90/q804952715_5897.jpg',
+            'name' => 'Nitesh Reddy'
+          },
+          {
+            'uid' => 1635725850,
+            'pic_square' => undef,
+            'name' => 'Paolo Leoni'
+          },
+          {
+            'uid' => 1012747822,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1640/6/q1012747822_8843.jpg',
+            'name' => 'Fabien Warin'
+          },
+          {
+            'uid' => 1317004473,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/651/23/q1317004473_4662.jpg',
+            'name' => 'Mehdi Ben Slimane'
+          },
+          {
+            'uid' => 1490741461,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/62/2/q1490741461_6815.jpg',
+            'name' => "Martin Pl\x{ed}\x{161}ek"
+          },
+          {
+            'uid' => 1188669305,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1400/86/q1188669305_8810.jpg',
+            'name' => 'Blay Fabrice'
+          },
+          {
+            'uid' => 582227301,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/504/21/q582227301_4840.jpg',
+            'name' => 'Aymeric Lambin'
+          },
+          {
+            'uid' => 1054322408,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1780/105/q1054322408_277.jpg',
+            'name' => 'Mike Johnson'
+          },
+          {
+            'uid' => 596230973,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/769/43/q596230973_123.jpg',
+            'name' => 'Ron Backman'
+          },
+          {
+            'uid' => 625062724,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1843/120/q625062724_4786.jpg',
+            'name' => 'Ebrahim Ahmed Cassim'
+          },
+          {
+            'uid' => 1268821399,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1074/10/q1268821399_5061.jpg',
+            'name' => 'Julie Delaigue'
+          },
+          {
+            'uid' => 856884569,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/194/11/q856884569_2324.jpg',
+            'name' => 'Rohan Ferris'
+          },
+          {
+            'uid' => 646801797,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1435/33/q646801797_5598.jpg',
+            'name' => 'Anthony PETITBOIS'
+          },
+          {
+            'uid' => 1375470667,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1282/65/q1375470667_2886.jpg',
+            'name' => 'James Hundley'
+          },
+          {
+            'uid' => 1346838147,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1871/8/q1346838147_4429.jpg',
+            'name' => 'Olivier Grossmann'
+          },
+          {
+            'uid' => 1174887572,
+            'pic_square' => '',
+            'name' => 'Sukma Nugraha'
+          },
+          {
+            'uid' => 800280292,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1487/48/q800280292_8621.jpg',
+            'name' => 'Gerald William Roy Willcox'
+          },
+          {
+            'uid' => 684670344,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/659/23/q684670344_7194.jpg',
+            'name' => 'Rogelio Selva'
+          },
+          {
+            'uid' => 823215592,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/617/2/q823215592_5702.jpg',
+            'name' => 'Abdullah Binmansour'
+          },
+          {
+            'uid' => 1121780752,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1751/44/q1121780752_5544.jpg',
+            'name' => 'Anthony Thomas'
+          },
+          {
+            'uid' => 1349615367,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/327/124/q1349615367_2311.jpg',
+            'name' => 'Nicolas Predella'
+          },
+          {
+            'uid' => 1205333244,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1642/123/q1205333244_3303.jpg',
+            'name' => 'Emad Hamdy'
+          },
+          {
+            'uid' => 709332811,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1942/34/q709332811_6184.jpg',
+            'name' => 'Ramdhani Fathurrohman'
+          },
+          {
+            'uid' => 1217326253,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/893/69/q1217326253_8805.jpg',
+            'name' => 'Aditya Hilman'
+          },
+          {
+            'uid' => 840138694,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1292/20/q840138694_5210.jpg',
+            'name' => 'Milo Petrovic'
+          },
+          {
+            'uid' => 615139374,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1405/9/q615139374_5327.jpg',
+            'name' => 'Toto Harjendro'
+          },
+          {
+            'uid' => 1112976225,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1147/59/q1112976225_4291.jpg',
+            'name' => 'Rodrigo J Cabezasdelaera'
+          },
+          {
+            'uid' => 669652319,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1394/75/q669652319_5737.jpg',
+            'name' => 'Andy Bentley'
+          },
+          {
+            'uid' => 1024247301,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1691/90/q1024247301_7157.jpg',
+            'name' => 'Ahmed Dbibi'
+          },
+          {
+            'uid' => 670280976,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1458/98/q670280976_1694.jpg',
+            'name' => 'Afzaal Shabbir'
+          },
+          {
+            'uid' => 528988282,
+            'pic_square' => undef,
+            'name' => "Tom Ji\x{159}inec"
+          },
+          {
+            'uid' => 1299429538,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/848/100/q1299429538_6413.jpg',
+            'name' => 'Bill Reilly'
+          },
+          {
+            'uid' => 1574117653,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1324/78/q1574117653_1990.jpg',
+            'name' => 'David Steele'
+          },
+          {
+            'uid' => 1387224512,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1580/39/q1387224512_8510.jpg',
+            'name' => "Samuel Garc\x{ed}a-solano Gras"
+          },
+          {
+            'uid' => 649564501,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1996/78/q649564501_6643.jpg',
+            'name' => 'David Spence'
+          },
+          {
+            'uid' => 537943565,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1616/77/q537943565_8785.jpg',
+            'name' => 'Po Hyn'
+          },
+          {
+            'uid' => 1260280797,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1708/44/q1260280797_6915.jpg',
+            'name' => 'David Jansen'
+          },
+          {
+            'uid' => 765932519,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1122/10/q765932519_4974.jpg',
+            'name' => "Andr\x{e9} Dashh"
+          },
+          {
+            'uid' => 1329459126,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/527/38/q1329459126_8134.jpg',
+            'name' => 'Bram Mertens'
+          },
+          {
+            'uid' => 1522113927,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1894/85/q1522113927_575.jpg',
+            'name' => 'Paolo Capelli'
+          },
+          {
+            'uid' => 1662819264,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/778/66/q1662819264_8293.jpg',
+            'name' => 'Brian Hawks'
+          },
+          {
+            'uid' => 1589387316,
+            'pic_square' => '',
+            'name' => 'Ron Kelley'
+          },
+          {
+            'uid' => 1432428941,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1930/122/q1432428941_7677.jpg',
+            'name' => 'Kennith Yancy'
+          },
+          {
+            'uid' => 1005187574,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/743/25/q1005187574_9063.jpg',
+            'name' => 'Jason Kohles'
+          },
+          {
+            'uid' => 1628896520,
+            'pic_square' => '',
+            'name' => 'Jimmy Smith'
+          },
+          {
+            'uid' => 1622921426,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1008/76/q1622921426_6895.jpg',
+            'name' => 'Jumbz Siazon Tayamen'
+          },
+          {
+            'uid' => 649816829,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/618/4/q649816829_1018.jpg',
+            'name' => 'Jorge Isaac'
+          },
+          {
+            'uid' => 661808030,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/590/23/q661808030_6027.jpg',
+            'name' => 'Claudio Estrada Astudillo'
+          },
+          {
+            'uid' => 1184089721,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/951/110/q1184089721_6999.jpg',
+            'name' => 'Jerry Amundson'
+          },
+          {
+            'uid' => 1440543687,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1338/54/q1440543687_9798.jpg',
+            'name' => 'Aji Widhi Wibowo'
+          },
+          {
+            'uid' => 1293745144,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/2008/8/q1293745144_7052.jpg',
+            'name' => 'Jim Lewis'
+          },
+          {
+            'uid' => 1327368957,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/150/125/q1327368957_515.jpg',
+            'name' => 'Francesco Talotta'
+          },
+          {
+            'uid' => 652616175,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/319/13/q652616175_8641.jpg',
+            'name' => 'NoNi Ashraf'
+          },
+          {
+            'uid' => 1024985420,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/419/41/q1024985420_5187.jpg',
+            'name' => 'Yesid Adrian Carmona Tobon'
+          },
+          {
+            'uid' => 1328045429,
+            'pic_square' => undef,
+            'name' => 'Eric Blix'
+          },
+          {
+            'uid' => 1034747993,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1445/49/q1034747993_1791.jpg',
+            'name' => 'Max Pyziur'
+          },
+          {
+            'uid' => 708819763,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/790/102/q708819763_6487.jpg',
+            'name' => 'Trio Wibisono'
+          },
+          {
+            'uid' => 1233214208,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1280/14/q1233214208_5137.jpg',
+            'name' => 'Jamel Gasmi'
+          },
+          {
+            'uid' => 1411946827,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1987/29/q1411946827_5679.jpg',
+            'name' => 'Steven Ringwald'
+          },
+          {
+            'uid' => 1000487655,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1406/75/q1000487655_1484.jpg',
+            'name' => 'Edi Inayat Muslaini'
+          },
+          {
+            'uid' => 1235205673,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1788/102/q1235205673_1446.jpg',
+            'name' => 'Vit Bartunek'
+          },
+          {
+            'uid' => 539995184,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/868/11/q539995184_1200.jpg',
+            'name' => 'Brad Chubbs'
+          },
+          {
+            'uid' => 580815491,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/32/63/q580815491_6278.jpg',
+            'name' => 'Daiblo Bashier'
+          },
+          {
+            'uid' => 555590721,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1865/18/q555590721_2320.jpg',
+            'name' => 'Shree Kant Bohra'
+          },
+          {
+            'uid' => 1592826853,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/851/0/q1592826853_2572.jpg',
+            'name' => 'Rendragita Risdiyanto'
+          },
+          {
+            'uid' => 724403925,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1355/54/q724403925_9994.jpg',
+            'name' => 'T. Colin Dodd'
+          },
+          {
+            'uid' => 1527815263,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1577/37/q1527815263_6423.jpg',
+            'name' => 'Juan Quintela'
+          },
+          {
+            'uid' => 739430226,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/752/30/q739430226_4188.jpg',
+            'name' => 'Samuel Avery-Quinn'
+          },
+          {
+            'uid' => 1257819168,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1712/14/q1257819168_9186.jpg',
+            'name' => 'Mike Santangelo'
+          },
+          {
+            'uid' => 1393590347,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/391/120/q1393590347_5926.jpg',
+            'name' => 'Michael Ilyasov'
+          },
+          {
+            'uid' => 1157157343,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1610/97/q1157157343_4054.jpg',
+            'name' => 'Jan Wichmann'
+          },
+          {
+            'uid' => 1113557324,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/432/22/q1113557324_6678.jpg',
+            'name' => 'Joe Feenin'
+          },
+          {
+            'uid' => 1202402968,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1985/92/q1202402968_9857.jpg',
+            'name' => 'Stefano Pelliccioni'
+          },
+          {
+            'uid' => 1049966117,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/96/59/q1049966117_6512.jpg',
+            'name' => "Orlando Garz\x{f3}n D\x{ed}az"
+          },
+          {
+            'uid' => 542837252,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/201/54/q542837252_8555.jpg',
+            'name' => 'Shady Ahmed'
+          },
+          {
+            'uid' => 669088388,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/453/102/q669088388_9474.jpg',
+            'name' => 'Antonius Aryo'
+          },
+          {
+            'uid' => 1321694140,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1484/100/q1321694140_5065.jpg',
+            'name' => 'Dewa Agung Sidarta'
+          },
+          {
+            'uid' => 1150336900,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1506/19/q1150336900_7816.jpg',
+            'name' => 'Bill Mercier'
+          },
+          {
+            'uid' => 805350555,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/822/117/q805350555_4494.jpg',
+            'name' => 'Kareem Samy'
+          },
+          {
+            'uid' => 1595904425,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1413/44/q1595904425_6484.jpg',
+            'name' => 'Salvatore Pitanza'
+          },
+          {
+            'uid' => 614903532,
+            'pic_square' => undef,
+            'name' => 'Dania Volioti'
+          },
+          {
+            'uid' => 1182295552,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/189/3/q1182295552_1310.jpg',
+            'name' => 'Dustin Black'
+          },
+          {
+            'uid' => 1550827530,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/2015/117/q1550827530_9420.jpg',
+            'name' => 'Thomas Maurice'
+          },
+          {
+            'uid' => 1517076674,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/951/70/q1517076674_9026.jpg',
+            'name' => 'Brandon Criddle'
+          },
+          {
+            'uid' => 812323725,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/497/17/q812323725_3246.jpg',
+            'name' => 'Roel Van Doorsselaere'
+          },
+          {
+            'uid' => 1410091744,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1590/49/q1410091744_5306.jpg',
+            'name' => 'Dino Scaringella'
+          },
+          {
+            'uid' => 1344162076,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1624/76/q1344162076_7489.jpg',
+            'name' => 'Jeremy Singh'
+          },
+          {
+            'uid' => 1548534058,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1273/73/q1548534058_821.jpg',
+            'name' => 'Henri-Louis Pillard'
+          },
+          {
+            'uid' => 753252946,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1000/88/q753252946_9097.jpg',
+            'name' => 'Khairul Nizam'
+          },
+          {
+            'uid' => 1489291169,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1672/27/q1489291169_8081.jpg',
+            'name' => 'Andrew Gutierrez'
+          },
+          {
+            'uid' => 1151839384,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/484/62/q1151839384_2195.jpg',
+            'name' => 'Warren Sanders'
+          },
+          {
+            'uid' => 1319216695,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1171/58/q1319216695_3507.jpg',
+            'name' => 'Atdhe Konjufca'
+          },
+          {
+            'uid' => 1632904041,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/869/53/q1632904041_8828.jpg',
+            'name' => 'Luis Barreto'
+          },
+          {
+            'uid' => 1390171146,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1232/5/q1390171146_9739.jpg',
+            'name' => 'Ruslan Sibilov'
+          },
+          {
+            'uid' => 809252144,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1639/39/q809252144_3844.jpg',
+            'name' => 'Dema Sabah'
+          },
+          {
+            'uid' => 791116949,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/422/86/q791116949_7725.jpg',
+            'name' => 'Ed Hill'
+          },
+          {
+            'uid' => 615384523,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1358/120/q615384523_8108.jpg',
+            'name' => 'Ritesh Ambastha'
+          },
+          {
+            'uid' => 1191718113,
+            'pic_square' => undef,
+            'name' => 'Jeremy T. Bouse'
+          },
+          {
+            'uid' => 1552548971,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1160/20/q1552548971_4884.jpg',
+            'name' => 'Peter Cavalli'
+          },
+          {
+            'uid' => 519149345,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1289/17/q519149345_707.jpg',
+            'name' => 'Xabier Laiseca'
+          },
+          {
+            'uid' => 610961728,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1626/113/q610961728_6141.jpg',
+            'name' => "D\x{ed}az Delgado Marcos"
+          },
+          {
+            'uid' => 804991701,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1234/98/q804991701_846.jpg',
+            'name' => 'Mohamed Jomaa'
+          },
+          {
+            'uid' => 1485626788,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/424/101/q1485626788_977.jpg',
+            'name' => 'Alan Clark'
+          },
+          {
+            'uid' => 1030088648,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/97/121/q1030088648_4058.jpg',
+            'name' => 'Cody Bell'
+          },
+          {
+            'uid' => 1162221224,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1246/66/q1162221224_6167.jpg',
+            'name' => 'Emiliano Pereyra'
+          },
+          {
+            'uid' => 1349345442,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1836/125/q1349345442_8456.jpg',
+            'name' => "Sa\x{161}a Perdan"
+          },
+          {
+            'uid' => 728383475,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/400/36/q728383475_9302.jpg',
+            'name' => 'Martin Wildam'
+          },
+          {
+            'uid' => 683085941,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1338/73/q683085941_5723.jpg',
+            'name' => 'Gianni Orazio'
+          },
+          {
+            'uid' => 1409783657,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/916/2/q1409783657_7068.jpg',
+            'name' => 'Ole Henrik Madsen'
+          },
+          {
+            'uid' => 698553847,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1346/95/q698553847_7069.jpg',
+            'name' => 'Michael Jonathan Fernandes'
+          },
+          {
+            'uid' => 513283691,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/723/94/q513283691_1417.jpg',
+            'name' => 'Benjamin Matteson'
+          },
+          {
+            'uid' => 1274792494,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/202/54/q1274792494_218.jpg',
+            'name' => 'Sean Beeson'
+          },
+          {
+            'uid' => 652670223,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1066/47/q652670223_405.jpg',
+            'name' => 'Tarek Ahmed Omar'
+          },
+          {
+            'uid' => 1277558703,
+            'pic_square' => undef,
+            'name' => 'Joey Reinders'
+          },
+          {
+            'uid' => 1139686086,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/902/78/q1139686086_8825.jpg',
+            'name' => "Iy\x{e1}n Mendez"
+          },
+          {
+            'uid' => 1248595568,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1116/37/q1248595568_1583.jpg',
+            'name' => 'Neal Reau'
+          },
+          {
+            'uid' => 1016175261,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1621/100/q1016175261_4692.jpg',
+            'name' => 'Marc Mission'
+          },
+          {
+            'uid' => 1188552122,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1256/117/q1188552122_7410.jpg',
+            'name' => 'Kevin J. Nilsson'
+          },
+          {
+            'uid' => 1306965143,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/740/100/q1306965143_3660.jpg',
+            'name' => 'Panos Patoulias'
+          },
+          {
+            'uid' => 1666321752,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/920/113/q1666321752_7039.jpg',
+            'name' => 'Jonathan McClain'
+          },
+          {
+            'uid' => 1071453489,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/221/12/q1071453489_8556.jpg',
+            'name' => 'Perry Broste'
+          },
+          {
+            'uid' => 1149094498,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/739/26/q1149094498_7948.jpg',
+            'name' => 'David Both'
+          },
+          {
+            'uid' => 1032932764,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1835/63/q1032932764_7681.jpg',
+            'name' => 'Dimitris Baltas'
+          },
+          {
+            'uid' => 1005308055,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1188/38/q1005308055_2667.jpg',
+            'name' => 'Ben Bennett'
+          },
+          {
+            'uid' => 206000020,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/456/79/q206000020_8643.jpg',
+            'name' => 'Mark Bradbury'
+          },
+          {
+            'uid' => 1389082154,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/746/95/q1389082154_7749.jpg',
+            'name' => 'Ambrogio de Lorenzo'
+          },
+          {
+            'uid' => 716351004,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/985/84/q716351004_2523.jpg',
+            'name' => 'Thomas Bell'
+          },
+          {
+            'uid' => 737202157,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1635/116/q737202157_939.jpg',
+            'name' => 'Scott Schmit'
+          },
+          {
+            'uid' => 1349200118,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1451/20/q1349200118_99.jpg',
+            'name' => 'Bradley K. Simonin'
+          },
+          {
+            'uid' => 1583595577,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/336/74/q1583595577_5969.jpg',
+            'name' => 'Mike Sargent'
+          },
+          {
+            'uid' => 605150579,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/6/53/q605150579_1220.jpg',
+            'name' => 'Alan Altmann'
+          },
+          {
+            'uid' => 1029902148,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/580/31/q1029902148_3384.jpg',
+            'name' => 'Nicolas Repentin'
+          },
+          {
+            'uid' => 517766764,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1271/13/q517766764_8742.jpg',
+            'name' => 'Johnny Mears'
+          },
+          {
+            'uid' => 513239599,
+            'pic_square' => 'https://secure-profile.facebook.com/profile2/1581/87/q513239599_20783.jpg',
+            'name' => 'Adhidarma Hadiwinoto'
+          },
+          {
+            'uid' => 1116777340,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1091/65/q1116777340_7317.jpg',
+            'name' => "Luk\x{e1}\x{161} Kukl\x{ed}nek"
+          },
+          {
+            'uid' => 1231000679,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/776/76/q1231000679_5963.jpg',
+            'name' => 'Ali Ismayilov'
+          },
+          {
+            'uid' => 1465550785,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/5/35/q1465550785_2470.jpg',
+            'name' => 'Soumya Bose'
+          },
+          {
+            'uid' => 546195627,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1964/66/q546195627_3340.jpg',
+            'name' => 'Darshik Jariwala'
+          },
+          {
+            'uid' => 719596031,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/729/84/q719596031_8505.jpg',
+            'name' => 'Robert Rosic'
+          },
+          {
+            'uid' => 712847235,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/2014/28/q712847235_6819.jpg',
+            'name' => 'Zachary Tomkoski'
+          },
+          {
+            'uid' => 1620187796,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/699/21/q1620187796_7489.jpg',
+            'name' => 'Jeff Koenig'
+          },
+          {
+            'uid' => 1172390408,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1162/72/q1172390408_8293.jpg',
+            'name' => 'Faris Zainal'
+          },
+          {
+            'uid' => 630680332,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/1365/8/q630680332_5565.jpg',
+            'name' => 'Ajh Af'
+          },
+          {
+            'uid' => 1334690271,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1390/26/q1334690271_8716.jpg',
+            'name' => 'Rubah Api'
+          },
+          {
+            'uid' => 599174349,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1754/55/q599174349_1979.jpg',
+            'name' => 'Michele Pagnin'
+          },
+          {
+            'uid' => 541978290,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/231/67/q541978290_9495.jpg',
+            'name' => 'Cyrille Georgel'
+          },
+          {
+            'uid' => 680548086,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1640/101/q680548086_6572.jpg',
+            'name' => 'Nicholas Yim'
+          },
+          {
+            'uid' => 1448067464,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/163/79/q1448067464_1572.jpg',
+            'name' => 'Ibtesam Obeidat'
+          },
+          {
+            'uid' => 1133180520,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/248/84/q1133180520_3069.jpg',
+            'name' => 'Heller Michael'
+          },
+          {
+            'uid' => 1027895330,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1711/17/q1027895330_1745.jpg',
+            'name' => 'Tri Harnoko'
+          },
+          {
+            'uid' => 1134284517,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/399/99/q1134284517_6767.jpg',
+            'name' => 'Diego Fernando Feria'
+          },
+          {
+            'uid' => 518241105,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/598/57/q518241105_4727.jpg',
+            'name' => 'Jorden Whitefield'
+          },
+          {
+            'uid' => 1005306154,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1622/23/q1005306154_3624.jpg',
+            'name' => 'Massimo Mangialardo'
+          },
+          {
+            'uid' => 1094296381,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1041/72/q1094296381_9328.jpg',
+            'name' => 'Manuel Antonio Espino Dominguez'
+          },
+          {
+            'uid' => 562732972,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/624/48/q562732972_10.jpg',
+            'name' => 'Bimo Septyo Prabowo'
+          },
+          {
+            'uid' => 649153269,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/1250/57/q649153269_7197.jpg',
+            'name' => 'Trevor Chris Cuttriss'
+          },
+          {
+            'uid' => 1015620474,
+            'pic_square' => 'https://secure-profile.facebook.com/v225/1646/93/q1015620474_1881.jpg',
+            'name' => 'Alexandre Jean-Noel'
+          },
+          {
+            'uid' => 1096959128,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/12/81/q1096959128_9086.jpg',
+            'name' => 'Sabrul Jamil'
+          },
+          {
+            'uid' => 870280018,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/622/68/q870280018_5182.jpg',
+            'name' => 'Karim Gardabou'
+          },
+          {
+            'uid' => 608073340,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1400/17/q608073340_9714.jpg',
+            'name' => 'Danis Herlambang'
+          },
+          {
+            'uid' => 1559491313,
+            'pic_square' => 'https://secure-profile.facebook.com/v224/1744/10/q1559491313_2914.jpg',
+            'name' => 'Geert Stroobant'
+          },
+          {
+            'uid' => 1546314919,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/228/104/q1546314919_2059.jpg',
+            'name' => 'Cariglia Lorenzo'
+          },
+          {
+            'uid' => 1068034434,
+            'pic_square' => undef,
+            'name' => 'Rick Shantery'
+          },
+          {
+            'uid' => 739298363,
+            'pic_square' => '',
+            'name' => 'Jonathen Shell'
+          },
+          {
+            'uid' => 753342541,
+            'pic_square' => 'https://secure-profile.facebook.com/profile5/1114/37/q753342541_3074.jpg',
+            'name' => 'Fadwa Hosny'
+          },
+          {
+            'uid' => 658454549,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/133/61/q658454549_6551.jpg',
+            'name' => 'Bayu Laksono'
+          },
+          {
+            'uid' => 1040885570,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/832/30/q1040885570_6276.jpg',
+            'name' => 'Rob Ledford'
+          },
+          {
+            'uid' => 1238766697,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/1270/59/q1238766697_1891.jpg',
+            'name' => 'Manjula Fernando'
+          },
+          {
+            'uid' => 1129321041,
+            'pic_square' => undef,
+            'name' => 'Andrew Ross'
+          },
+          {
+            'uid' => 778558517,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/964/60/q778558517_9911.jpg',
+            'name' => 'Stefano Pastori'
+          },
+          {
+            'uid' => 1055307552,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1086/35/q1055307552_9783.jpg',
+            'name' => 'Carlo Zuffetti'
+          },
+          {
+            'uid' => 1077709252,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/714/111/q1077709252_6159.jpg',
+            'name' => 'Matt Iavarone'
+          },
+          {
+            'uid' => 598493399,
+            'pic_square' => 'https://secure-profile.facebook.com/v230/200/97/q598493399_381.jpg',
+            'name' => 'Mavi Milia'
+          },
+          {
+            'uid' => 500684909,
+            'pic_square' => 'https://secure-profile.facebook.com/profile3/153/15/q500684909_32624.jpg',
+            'name' => 'Daniel J'
+          },
+          {
+            'uid' => 747524408,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/417/15/q747524408_2399.jpg',
+            'name' => 'Giuliano De Rossi'
+          },
+          {
+            'uid' => 1404034486,
+            'pic_square' => 'https://secure-profile.facebook.com/v227/1713/58/q1404034486_412.jpg',
+            'name' => 'Jacopo Mastrorocco'
+          },
+          {
+            'uid' => 1156583515,
+            'pic_square' => 'https://secure-profile.facebook.com/v226/1420/113/q1156583515_2349.jpg',
+            'name' => 'Leonardo Antonio Bravo Illanes'
+          },
+          {
+            'uid' => 1446546370,
+            'pic_square' => 'https://secure-profile.facebook.com/profile6/1109/7/q1446546370_2734.jpg',
+            'name' => 'Tommy Rosqui'
+          },
+          {
+            'uid' => 1502359298,
+            'pic_square' => '',
+            'name' => 'Cesare Cameroni'
+          },
+          {
+            'uid' => 1078434547,
+            'pic_square' => 'https://secure-profile.facebook.com/v228/875/76/q1078434547_4739.jpg',
+            'name' => 'Vivek J Patankar'
+          },
+          {
+            'uid' => 625797532,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/1682/49/q625797532_4008.jpg',
+            'name' => 'Jess Anthony Carlos'
+          },
+          {
+            'uid' => 1202617272,
+            'pic_square' => 'https://secure-profile.facebook.com/v223/2006/45/q1202617272_3531.jpg',
+            'name' => 'Rana Gamal'
+          },
+          {
+            'uid' => 1031107305,
+            'pic_square' => '',
+            'name' => 'Andrew Nuff'
+          },
+          {
+            'uid' => 1509543435,
+            'pic_square' => undef,
+            'name' => 'Aaron Bowman'
+          },
+          {
+            'uid' => 1063990501,
+            'pic_square' => 'https://secure-profile.facebook.com/v222/1174/44/q1063990501_312.jpg',
+            'name' => 'Tobias Krempels'
+          },
+          {
+            'uid' => 723662241,
+            'pic_square' => '',
+            'name' => 'Hector Andres Ladino'
+          },
+          {
+            'uid' => 1407258429,
+            'pic_square' => '',
+            'name' => 'Jorge Correia'
+          },
+          {
+            'uid' => 1543114228,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/476/117/q1543114228_1578.jpg',
+            'name' => "J\x{e9}r\x{e9}my Lecomte"
+          },
+          {
+            'uid' => 1075879128,
+            'pic_square' => 'https://secure-profile.facebook.com/v229/1542/72/q1075879128_6563.jpg',
+            'name' => "Lo\x{ef}c Tomczak"
+          },
+          {
+            'uid' => 1507040850,
+            'pic_square' => '',
+            'name' => "Ferdy Curr\x{f2}"
+          }
+        ];
